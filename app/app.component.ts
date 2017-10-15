@@ -5,6 +5,5 @@ import { Component } from '@angular/core';
   template: '<h1>Hello World</h1>'
 })
 export class AppComponent {
-  title: 'App Works !!!';
-
+  title: 'Hello World !!!';
 }
